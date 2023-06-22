@@ -2,6 +2,8 @@
 
 https://angular.io/guide/attribute-directives
 
+https://stackblitz.com/~/github.com/luiscoco/AngularDirectives_Sample2-AttributeDirectives
+
 In Angular, attribute directives are a type of directive that allows you to change the behavior or appearance of an HTML element by applying a custom attribute. They are used to add, modify, or remove attributes from elements dynamically.
 
 Attribute directives are denoted by the @Directive decorator in Angular and are applied to elements as attributes in the template. They can be used to listen to events, manipulate the DOM, modify styles, or add additional functionality to elements.
